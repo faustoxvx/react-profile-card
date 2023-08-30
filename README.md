@@ -1,2 +1,2 @@
 # react-profile-card
-Created with CodeSandbox
+Profile card component to practise props and map.
